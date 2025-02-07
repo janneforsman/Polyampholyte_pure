@@ -1,0 +1,62 @@
+ Monomer 1 constrained to be within
+ one sigma from z=closew, i.e the left wall
+ (flexible grafting)
+ surfdens =   0.22939999999999999     
+ q1,p1 =    1.0000000000000000        1.0000000000000000     
+ GFD model (old Ym)
+ no. of monomers/polymer =           15
+ max no. of iterations =        90000
+ temperature =    1.0000000000000000     
+ h,dz =    21.000000000000000        5.0000000000000017E-002
+ closew,sclosew =    0.0000000000000000        0.0000000000000000     
+ nfack =          420
+ istp1,islut,inw =            1         420          20
+ istp1s,isluts,inws =            1         420          20
+ ism,isms =           20          20
+ dmm,dms (density mixing param. mon.,solv.) =   0.97999999999999998       0.97999999999999998     
+ TRUNC. + SH. STEEP MORSE WALL POT.!
+ w(z)=Af*((1.d0-exp(-2*(z-zpmin)))^2-1.)-w(zwc),(z<zwc)
+ Af =    0.0000000000000000     
+ zpmin =   0.34581612813399998     
+ zwc =    3.2458161281343001     
+ refVexm =   -0.0000000000000000     
+ hwdist = 
+     0.00000000000000E+00
+ ddmax,niter =    5.4867289738403040E-002         100
+ ddmax,niter =    6.8932228120114000E-003         200
+ ddmax,niter =    8.7208862161499703E-004         300
+ ddmax,niter =    1.1100068787405068E-004         400
+ ddmax,niter =    1.4197571537647966E-005         500
+ ddmax,niter =    1.8232291584871897E-006         600
+ ddmax,niter =    2.3491732472509710E-007         700
+
+ fnorm =    29659592823.044861     
+ /beta*(grand pot.) =    4.7643017254568560     
+ (grand pot.)/epsmm =    4.7643017254568560     
+
+ /beta*(Freen+Pb*h) (Pb = 0) = 
+   4.7643017254568560     
+
+ nm(ism+delta) - quad. extr. =   0.38813864163734585     
+ nm(izslab-delta) - quad. extr. =   0.84409854245833360     
+ nmgraft(izslab-delta) - quad. extr. =   0.45664810102219866     
+ correcting for graft interactions
+ Pdonn =  -0.45595990082098775     
+
+ /beta*solvation force (right wall) = 
+   1.4754922267410930E-003
+   2.1636924279520020E-003
+
+ /beta*solvation force (left wall) = 
+   1.4754922267410930E-003
+   2.1636924279520020E-003
+
+ monomer contact density (left wall) =   0.45812359324893975     
+ avfdm =   0.32771428561063082     
+ monomer mid plane density - quad. extr. =    1.7520754947567982E-002
+ ideal part of mid plane pressure:
+     0.17520754947568E-01
+ Pmacross:
+    -0.00000000000000E+00
+
+ ddmax,niter =    9.9430694521623046E-008         742

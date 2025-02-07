@@ -1,0 +1,23 @@
+	bdmtrams,bdes:
+	6.02214e-7	6.02214e-7	
+	nval,nsval:
+	1	1
+	nmontrams:
+	11
+	h:
+	60.
+	dz:
+	0.05
+	dmm:
+	0.994
+	dms:
+	0.994
+	kread:
+	1
+	ioimaxm:
+	300000
+	trams:
+	0.7
+	dm1,ds1,bl:
+	4.d0	4.d0	4.d0
+

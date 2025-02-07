@@ -1,0 +1,9 @@
+cDFTcode.f is the fortran code for polyampholyte salt calculations.
+
+Results for 1mM 15-mers are collected in "15-mers_1mM"
+with sub-directories.
+
+In "simplesalt" you will find code plus input data for simple 1:1 salts.
+
+The "appendix" directory is what the name suggests.
+

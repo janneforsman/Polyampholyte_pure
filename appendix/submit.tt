@@ -1,0 +1,13 @@
+#!/bin/sh
+./dh.run
+time ./t.run > h15 2>&1
+./dh.run
+time ./t.run > h14 2>&1
+./dh.run
+time ./t.run > h13 2>&1
+./dh.run
+time ./t.run > h12 2>&1
+./dh.run
+time ./t.run > h11 2>&1
+./dh.run
+time ./t.run > h10 2>&1

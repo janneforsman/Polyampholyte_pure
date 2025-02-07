@@ -1,0 +1,75 @@
+
+real	0m0.077s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 4: ./dh.run: No such file or directory
+
+real	0m0.075s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 6: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 9: ./dh.run: No such file or directory
+
+real	0m0.075s
+user	0m0.054s
+sys	0m0.017s
+./submit.tt: line 11: ./dh.run: No such file or directory
+
+real	0m0.076s
+user	0m0.054s
+sys	0m0.021s
+./submit.tt: line 13: ./dh.run: No such file or directory
+
+real	0m0.075s
+user	0m0.054s
+sys	0m0.017s
+./submit.tt: line 15: ./dh.run: No such file or directory
+
+real	0m0.075s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 17: ./dh.run: No such file or directory
+
+real	0m0.073s
+user	0m0.053s
+sys	0m0.019s
+./submit.tt: line 19: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.053s
+sys	0m0.018s
+./submit.tt: line 21: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 23: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.053s
+sys	0m0.018s
+./submit.tt: line 25: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.053s
+sys	0m0.019s
+./submit.tt: line 27: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 29: ./dh.run: No such file or directory
+
+real	0m0.074s
+user	0m0.054s
+sys	0m0.018s
+./submit.tt: line 31: ./dh.run: No such file or directory
+
+real	0m0.073s
+user	0m0.053s
+sys	0m0.015s
+        1.13 real         0.80 user         0.27 sys

@@ -1,0 +1,6 @@
+#!/bin/sh
+./dh.run
+time ./t.run > h9 2>&1
+./dh.run
+time ./t.run > h8 2>&1
+
